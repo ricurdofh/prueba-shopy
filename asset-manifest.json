@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/prueba-shopy/static/css/main.95d678ff.chunk.css",
+    "main.js": "/prueba-shopy/static/js/main.f63e599d.chunk.js",
+    "main.js.map": "/prueba-shopy/static/js/main.f63e599d.chunk.js.map",
+    "runtime-main.js": "/prueba-shopy/static/js/runtime-main.8b3be5a0.js",
+    "runtime-main.js.map": "/prueba-shopy/static/js/runtime-main.8b3be5a0.js.map",
+    "static/css/2.b90ce945.chunk.css": "/prueba-shopy/static/css/2.b90ce945.chunk.css",
+    "static/js/2.60d56e2e.chunk.js": "/prueba-shopy/static/js/2.60d56e2e.chunk.js",
+    "static/js/2.60d56e2e.chunk.js.map": "/prueba-shopy/static/js/2.60d56e2e.chunk.js.map",
+    "index.html": "/prueba-shopy/index.html",
+    "precache-manifest.3541eb1e10330d0c4075d328cbbd6625.js": "/prueba-shopy/precache-manifest.3541eb1e10330d0c4075d328cbbd6625.js",
+    "service-worker.js": "/prueba-shopy/service-worker.js",
+    "static/css/2.b90ce945.chunk.css.map": "/prueba-shopy/static/css/2.b90ce945.chunk.css.map",
+    "static/css/main.95d678ff.chunk.css.map": "/prueba-shopy/static/css/main.95d678ff.chunk.css.map",
+    "static/js/2.60d56e2e.chunk.js.LICENSE": "/prueba-shopy/static/js/2.60d56e2e.chunk.js.LICENSE",
+    "static/media/star.svg": "/prueba-shopy/static/media/star.4893a554.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b3be5a0.js",
+    "static/css/2.b90ce945.chunk.css",
+    "static/js/2.60d56e2e.chunk.js",
+    "static/css/main.95d678ff.chunk.css",
+    "static/js/main.f63e599d.chunk.js"
+  ]
+}
